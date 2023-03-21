@@ -1,8 +1,4 @@
-# Что такое Chat GPT - создаем Телеграм бот для общения с нейросетью OpenAI
 
-# Подписывайтесь, чтобы
-# быстрее узнавать о
-# новых уроках - https://t.me/isartem_bot
 
 # pip install pyTelegramBotAPI
 # pip install openai
